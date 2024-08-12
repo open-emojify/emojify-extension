@@ -15,6 +15,12 @@
             "js": ["emojify.js"]
         }
     ],
+    "web_accessible_resources": [
+        {
+            "resources": ["emojify.js", "icons/*.png"],
+            "matches": ["<all_urls>"]
+        }
+    ],
     "permissions": [
         "activeTab"
     ]
