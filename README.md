@@ -1,2 +1,2 @@
 # emojify-extension
-Emojify as a chrome extension
+The offical Chrome extension for Emojify.
