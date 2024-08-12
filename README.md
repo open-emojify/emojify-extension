@@ -5,4 +5,4 @@
 <div align="left">The offical Chrome extension for Emojify.</div>
 <div align="left">
 
-<!-- [Download](https://chromewebstore.google.com/) -->
+[Download](https://github.com/open-emojify/emojify-extension/tree/main/extension)
