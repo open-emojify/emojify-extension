@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Emojify",
+    "version": "1.0",
+    "description": "Emojify is a customizable emoji trail javascript library that follows your mouse cursor, embedding playfulness and personality into any webpage.",
+    "icons": {
+        "16": "icons/logo.png",
+        "32": "icons/logo.png",
+        "48": "icons/logo.png",
+        "128": "icons/logo.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["emojify.js"]
+        }
+    ],
+    "web_accessible_resources": [
+        {
+            "resources": ["emojify.js", "icons/*.png"],
+            "matches": ["<all_urls>"]
+        }
+    ],
+    "permissions": [
+        "activeTab"
+    ]
+}
