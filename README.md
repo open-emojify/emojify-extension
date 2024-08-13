@@ -20,7 +20,7 @@ Emojify can be installed from stores of:
   https://chrome.google.com/extensions/detail/mpiodijhokgodhhofbcjdecpffjipkle -->
 
 You can also download the zip file
-(https://github.com/gildas-lormeau/SingleFile/archive/master.zip) of the project
+(https://github.com/open-emojify/emojify-extension/extension/emojify.zip) of the project
 and install it manually by unzipping it somewhere on your disk and following
 these instructions:
 
