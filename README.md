@@ -25,7 +25,8 @@ and install it manually by unzipping it somewhere on your disk and following
 these instructions:
 
 - Firefox: https://extensionworkshop.com/documentation/develop/temporary-installation-in-firefox
-- Chrome and Microsoft Edge: see https://github.com/gildas-lormeau/SingleFile-MV3
+- Chrome:
+  https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked
 
 ## Copyright and license
 
