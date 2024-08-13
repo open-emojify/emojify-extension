@@ -23,5 +23,10 @@
     ],
     "permissions": [
         "activeTab"
-    ]
+    ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "emojify-123abc-4def-56gh-7ijk"
+        }
+    }
 }
