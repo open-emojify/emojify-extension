@@ -17,8 +17,8 @@
     ],
     "web_accessible_resources": [
         {
-            "resources": ["emojify.js", "icons/*.png"],
-            "matches": ["<all_urls>"]
+            "resources": "emojify.js, icons/*.png",
+            "matches": "<all_urls>"
         }
     ],
     "permissions": [
